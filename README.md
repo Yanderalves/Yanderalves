@@ -1,7 +1,7 @@
 ## Eae meu pivete! Eu sou Yander alves 🤙
 
 
-- Estudante de Ciências da Computação
+- Estudo Ciência da Computação, Trampo no Fitbank, e faço uns projetos nas horas vagas.
 <div align="center">
  <a href="https://github.com/Yanderalves">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Yanderalves&show_icons=true&theme=chartreuse-darka&include_all_commits=true&count_private=true"/>
