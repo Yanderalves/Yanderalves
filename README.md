@@ -1,9 +1,9 @@
 <h2 align="left">Opa, meu nome é Yander alves</h2>
 <h3 align="left">Sou desenvolvedor Backend com cerca de 2 anos de experiência em Fintech</h3>
 
-- 🔭 Atualmente estou cursando **Ciência da computação na Universidade Federal do ceará**
+- 📖 Atualmente estou cursando **Ciência da computação na Universidade Federal do ceará**
 
-- 👯 Estou trabalhando no meu projeto pessoal que tem como objetivo **fazer prestadores de serviço e clientes se encontrem apenas com um clique**
+- 🖥️ Estou trabalhando no meu projeto pessoal que tem como objetivo **fazer prestadores de serviço e clientes se encontrem apenas com um clique**
 
 <h3 align="left">Conecte-se comigo:<h3>
 <p align="left">
