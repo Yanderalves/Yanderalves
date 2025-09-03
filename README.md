@@ -1,5 +1,5 @@
 <h2 align="left">Opa, meu nome é Yander alves</h2>
-<h3 align="left">Sou desenvolvedor Backend com cerca de 2 anos de experiência em Fintech</h3>
+<h3 align="left">Desenvolvedor Backend .NET com 2 anos de experiência em fintech, especializado na construção e modernização de sistemas críticos. Forte atuação em APIs REST, .N'T Core, SQL Server e arquitetura de microserviços, com foco em escalabilidade e performance. Experiência sólida em testes unitários (xUnit) para garantir qualidade e confiabilidade do código. Vivência em metodologias ágeis (Scrum/Kanban) e versionamento com Git. Conhecimentos adicionais em React.js e React Native para integração full-stack.</h3>
 
 - 📖 Atualmente estou cursando **Ciência da computação na Universidade Federal do ceará**
 
